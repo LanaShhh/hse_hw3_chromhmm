@@ -52,7 +52,13 @@ Ctcf             | Ctcf.bam            | http://hgdownload.cse.ucsc.edu/goldenPa
 6     | Weak/poised enhancer      | Выражен в H3k4me1, H3k4me2. Чаще всего находится на RefSeqTSS2kb, RefSeqTES. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
 7     | Weak/poised enhancer      | Выражен в H3k4me1, H3k4me2, H3k4me3. Чаще всего находится на CpG-островках, RefSeqExon, RefSeqTSS. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
 8     | Insulator                 | Выражен в H3k4me2, H3k4me3, H3k9ac, H3k27ac. Чаще всего находится на RefSeqExon, RefSeqTSS, RefSeqTSS2kb, CpG-островках. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
-9     | Transcriptional transition| Выражен в H3k4me1, H3k4me2, H3k27ac. Чаще всего находится на RefSeqGene. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+9     | Transcriptional transition| Выражен в H3k4me1, H3k4me2, H3k27ac. Чаще всего находится на ядерной ламине, RefSeqGene. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+10    | Transcriptional elongation| Выражен в H3k4me1, H3k4me2, H3k27ac. Чаще всего находится на ядерной ламине, RefSeqGene. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+11    | Weak transcribed          | Выражен в H3k4me1, H3k27ac. Чаще всего находится на ядерной ламине, RefSeqGene. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+12    | Polycomb-repressed        | Выражен в H3k4me1. Чаще всего находится на ядерной ламине, RefSeqGene. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+13    | Heterochromatin; low signal| Выражен в H3k4me1, H3k36me3, H4k20me1. Чаще всего находится на RefSeqTES, RefSeqGene, RefSeqExon. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+14    | Repetitive/Copy Number Variation| Выражен в H3k36me3. Чаще всего находится наRefSeqTES, RefSeqGene, RefSeqExon. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+15    | Repetitive/Copy Number Variation| Выражен в Ctcf. Чаще всего находится на ядерной ламине. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
 
 ### Все запущенные команды находятся в файле HW3.ipynb
 
