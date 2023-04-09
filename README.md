@@ -27,3 +27,8 @@ H3k09me3         | H3k9me3.bam         | http://hgdownload.cse.ucsc.edu/goldenPa
 H4k20me1         | H4k20me1.bam        | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHmecH4k20me1StdAlnRep1.bam
 Ctcf             | Ctcf.bam            | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHmecCtcfStdAlnRep1.bam
 
+
+### Картинки ChromHMM
+
+![]()
+
