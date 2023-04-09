@@ -30,5 +30,15 @@ Ctcf             | Ctcf.bam            | http://hgdownload.cse.ucsc.edu/goldenPa
 
 ### Картинки ChromHMM
 
-![]()
+![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/pics/HMEC_15_RefSeqTES_neighborhood.png)
+
+![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/pics/HMEC_15_RefSeqTSS_neighborhood.png)
+
+![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/pics/HMEC_15_overlap.png)
+
+![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/pics/emissions_15.png)
+
+![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/pics/transitions_15.png)
+
+
 
