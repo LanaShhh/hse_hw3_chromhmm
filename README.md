@@ -40,5 +40,21 @@ Ctcf             | Ctcf.bam            | http://hgdownload.cse.ucsc.edu/goldenPa
 
 ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/pics/transitions_15.png)
 
+### Эпигенетические типы
+
+Номер | Название                  | Описание | Картинка 
+---   | ---                       | ---      | ---
+1     | Active promoter           | Выражен в H3k9me3. Чаще всего находится на ядерной ламине. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+2     | Weak promoter             | Чаще всего находится на ядерной ламине. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+3     | Inactive/poised Promoter  | Выражен в H3k27me3. Чаще всего находится на ядерной ламине, RefSeqTES, RefSeqGene. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+4     | Strong enhancer           | Выражен в H3k27me3, H3k4me1, H3k4me2. Чаще всего находится на CpG-островках, RefSeqExon, RefSeqTSS, RefSeqTES, RefSeqGene. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+5     | Strong enhancer           | Выражен в H3k4me1, H3k4me2. Чаще всего находится на ядерной ламине, RefSeqGene. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+6     | Weak/poised enhancer      | Выражен в H3k4me1, H3k4me2. Чаще всего находится на RefSeqTSS2kb, RefSeqTES. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+7     | Weak/poised enhancer      | Выражен в H3k4me1, H3k4me2, H3k4me3. Чаще всего находится на CpG-островках, RefSeqExon, RefSeqTSS. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+8     | Insulator                 | Выражен в H3k4me2, H3k4me3, H3k9ac, H3k27ac. Чаще всего находится на RefSeqExon, RefSeqTSS, RefSeqTSS2kb, CpG-островках. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+9     | Transcriptional transition| Выражен в H3k4me1, H3k4me2, H3k27ac. Чаще всего находится на RefSeqGene. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/1.png)
+
+### Все запущенные команды находятся в файле HW3.ipynb
+
 
 
