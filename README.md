@@ -65,5 +65,10 @@ Ctcf             | Ctcf.bam            | http://hgdownload.cse.ucsc.edu/goldenPa
 
 ### Все запущенные команды находятся в файле HW3.ipynb. Код бонуса находится в файле HW3_bonus.ipynb
 
+### Результат бонуса 
+
+![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/bonus_res.png)
+
+
 
 
