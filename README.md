@@ -6,6 +6,8 @@
 - cellmarkfiletable.txt 
 - data.zip - архив с данными, полученные с помощью ChromHMM
 - HW3.ipynb - ноутбук, содержащий все запущенные команды
+- HW3_bonus.ipynb - ноутук с кодом бонуса
+- new_bed.zip - архив с *dense.bed файлом, у которого эпигенетические типы переименованы (результат бонуса)
 - pics - папка с картинками ChromHMM
 - genome_browser_pics - картинка с участками генома из GenomeBrowser
 
@@ -61,7 +63,7 @@ Ctcf             | Ctcf.bam            | http://hgdownload.cse.ucsc.edu/goldenPa
 14    | Repetitive/Copy Number Variation| Выражен в H3k36me3. Чаще всего находится наRefSeqTES, RefSeqGene, RefSeqExon. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/14.png)
 15    | Repetitive/Copy Number Variation| Выражен в Ctcf. Чаще всего находится на ядерной ламине. | ![](https://github.com/LanaShhh/hse_hw3_chromhmm/blob/main/genome_browser_pics/15.png)
 
-### Все запущенные команды находятся в файле HW3.ipynb
+### Все запущенные команды находятся в файле HW3.ipynb. Код бонуса находится в файле HW3_bonus.ipynb
 
 
 
